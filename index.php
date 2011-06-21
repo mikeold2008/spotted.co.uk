@@ -1,4 +1,4 @@
-<?php
+<?php BOB WAS HERE
 include('database.php'); // Include the class
 $dataBase = new DB; // Create new DB object
 ?>
